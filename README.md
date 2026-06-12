@@ -13,7 +13,6 @@
   <a href="mailto:[TU-CORREO]">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Medellín,%20Colombia-🇨🇴-2E7D32?style=flat-square" alt="Location"/>
 </p>
 
 ---
