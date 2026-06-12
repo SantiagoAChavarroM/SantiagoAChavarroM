@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[TU-USUARIO-LINKEDIN]/">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/santiagoachavarrom/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[TU-CORREO]">
