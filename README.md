@@ -3,11 +3,11 @@
 <h3 align="center">AI Automation Developer · Full Stack (React · Node.js) · Business Administration</h3>
 
 <p align="center">
-  I design AI-powered systems — from agents to automations to full-stack apps — that make businesses run better.
+  I design <b>AI-powered systems</b> — from agents to automations to full-stack apps — that make businesses run better.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/santiagoachavarrom/)">
+  <a href="https://www.linkedin.com/in/[TU-USUARIO-LINKEDIN]/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[TU-CORREO]">
@@ -20,11 +20,10 @@
 
 ## About Me
 
--  Independent developer & consultant focused on **AI automation and AI agents**
--  Business Administration (final semester) + advanced **AI Automation & Agents** track at **Riwi**
--  Currently building **Valen**, an AI sales agent that automates lead flow from Meta & Google Ads → WhatsApp → sales handoff
+- **Full Stack Developer with a Business Administration background**, focused on **AI automation and AI agents** — I build systems that connect tools, data and AI to automate real business workflows
+-  I build AI agents that automate lead flows end to end — from paid Ads (**Meta**, **Google**) → **WhatsApp** → sales handoff
 -  I bridge **business and tech**: I don't just write code, I automate processes that move revenue
--  Based in Medellín, Colombia — open to **remote** opportunities
+-  Based in Medellín, Colombia — **open to new job opportunities**
 
 ---
 
