@@ -3,7 +3,7 @@
 <h3 align="center">AI Automation Developer · Full Stack (React · Node.js) · Business Administration</h3>
 
 <p align="center">
-  I build <b>AI agents and automation systems</b> that help businesses capture leads, close sales and save time.
+  I design AI-powered systems — from agents to automations to full-stack apps — that make businesses run better.
 </p>
 
 <p align="center">
