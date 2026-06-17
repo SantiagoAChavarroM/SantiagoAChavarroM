@@ -21,8 +21,8 @@
 
 ### 🧠 Sobre mí
 
-- 🔭 Desarrollador independiente: construyo sistemas de automatización con IA para clientes.
-- 💼 Estudiante de último semestre de **Administración de Empresas** + bootcamp **Full Stack IA** en Riwi.
+- 🔭 Desarrollador Full Stack: construyo aplicaciones web y automatizaciones con IA para optimizar procesos reales.
+- 💼 Estudiante de último semestre de **Administración de Empresas** + **Full Stack en IA**.
 - 🤖 Me especializo en **agentes de IA**, orquestación con **n8n** e integración de **LLMs y APIs**.
 - 🎯 Busco unir mis habilidades técnicas con mi visión de negocio para crear software con impacto real.
 - 🌱 Actualmente profundizando en arquitecturas de agentes y desarrollo full stack.
@@ -34,7 +34,6 @@
 **Lenguajes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
@@ -58,6 +57,8 @@
 
 **Herramientas**
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -77,23 +78,10 @@ Sistema full stack de control de inventario con un agente de IA que permite cons
 `Node.js` · `Express` · `React` · `Tailwind` · `OpenAI` · `TTS` · `n8n`
 🔗 [Ver repositorio](link-repo-inventory)
 
-**📈 valenAg — Agente de captación de leads**
-Agente de IA para la captación y calificación automática de leads, conectando el flujo desde canales digitales como Meta Ads y Google Ads hasta la conversación y el seguimiento.
-`IA` · `n8n` · `Meta Ads` · `Google Ads` · `APIs`
-🔗 [Ver repositorio](link-repo-valenag)
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
-</p>
+**📈 Value + Lead Engagement — Agente de captación y calificación de leads**
+Plataforma de IA que automatiza el ciclo comercial de extremo a extremo: capta leads desde canales digitales (Meta Ads y Google Ads), los califica con un agente conversacional, gestiona la conversación por WhatsApp y entrega el seguimiento hasta el cierre, bajo un modelo de negocio por comisión. Orquestado en n8n con LLMs e integración de múltiples APIs.
+`n8n` · `OpenAI / LLMs` · `WhatsApp Business API` · `Meta Ads` · `Google Ads` · `Node.js` · `REST API` · `SQL / NoSQL`
+🔗 [Ver repositorio](link-repo-valen)
 
 ---
 
